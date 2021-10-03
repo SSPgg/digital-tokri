@@ -4,6 +4,7 @@
     display:flex;
     justify-content: flex-start;
     align-items:center;
+    /* width: 10px; */
 }
 
 .menu-bars{
@@ -15,7 +16,7 @@
 
 .nav-menu{
     background-color: #0a123d;
-    width:250px;
+    width:200px;
     height: 100vh;
     display:flex;
     justify-content: center;

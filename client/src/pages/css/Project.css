@@ -1,0 +1,25 @@
+.projects {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 1ch;
+    flex: auto;
+  }
+.projTableHeader{
+display: flex;
+
+}
+.projTableHeader h3{
+    margin: 10px;
+    background-color: coral;
+}
+
+.project{
+    display: flex;
+    border-width: 20px;
+    }
+.project h4{
+    margin: 10px;
+
+ }
+    

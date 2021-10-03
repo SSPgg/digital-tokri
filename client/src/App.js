@@ -4,6 +4,7 @@ import {
   Route
 } from "react-router-dom";
 import './App.css';
+// import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import { Navbar } from './components/Navbar';
 import { Home } from "./pages/Home";
 import { Projects } from "./pages/Projects";
